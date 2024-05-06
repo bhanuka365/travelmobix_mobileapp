@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722135877240",
+    "project_id": "travelmobix-7d56c",
+    "storage_bucket": "travelmobix-7d56c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722135877240:android:499537c5790a9ed9194f8d",
+        "android_client_info": {
+          "package_name": "com.example.public_transport_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJhxzgN8a8NPhRFnFYHk19cZfPY8Ze6sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
